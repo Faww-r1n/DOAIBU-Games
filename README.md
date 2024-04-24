@@ -4,10 +4,10 @@ Nusa-Myth adalah sebuah game sederhana dengan mengusung konsep RPG, dimana playe
 
 ## Anggota 
 
-- Arkan Chandra Hariz Liem
+- Arkan Haris Candrawinata Liem
 - Bagas Andreanto
 - Deva Ahmad
-- Dzaki Gastiandirijal
+- Dzaki Gastiadirijal
 - Fawwaz Abhitah Sugiarto
 - Muhammad Fadhil Alfitra Budi
 
