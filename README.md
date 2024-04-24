@@ -12,5 +12,5 @@ Nusa-Myth adalah sebuah game sederhana dengan mengusung konsep RPG, dimana playe
 - Deva Ahmad
 - Dzaki Gastiandirijal
 - Fawwaz Abhitah Sugiarto
-- Muhammad Fadhil 
+- Muhammad Fadhil Alfitra Budi
 
