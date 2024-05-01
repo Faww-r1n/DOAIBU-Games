@@ -8,8 +8,10 @@ Nusa-Myth adalah sebuah game sederhana dengan mengusung konsep RPG, dimana playe
 
 ## Cara Bermain 
 
+## UML Diagram proyek
 
-## Anggota 
+
+## Kontributor Pengembang Aplikasi
 
 - Arkan Haris Candrawinata Liem
 - Bagas Andreanto
@@ -17,4 +19,6 @@ Nusa-Myth adalah sebuah game sederhana dengan mengusung konsep RPG, dimana playe
 - Dzaki Gastiadirijal
 - Fawwaz Abhitah Sugiarto
 - Muhammad Fadhil Alfitra Budi
+
+## Referensi
 
