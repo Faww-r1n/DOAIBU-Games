@@ -1,6 +1,6 @@
 <h1 align="center">Nusa Myth</h1>
 <p align="center">
-  <img scr="asset/ICON.JPG" />
+  <img scr="https://github.com/Faww-r1n/DOAIBU-Games/assets/115122603/9a319fb7-efe0-46b9-9d3c-4995f7d06de8"/>
 </p>
 
 ## Deskripsi Proyek
