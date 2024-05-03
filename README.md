@@ -1,6 +1,6 @@
- <h1 align="center">Nusa Myth</h1>
+<h1 align="center">Nusa Myth</h1>
 <p align="center">
-  <img scr="ICON.jpg" />
+  <img scr="asset/ICON.jpg" />
 </p>
 
 ## Deskripsi Proyek
