@@ -1,2 +1,2 @@
 print ("hellow world")
-print("Kontol")
+for i in range(n):
